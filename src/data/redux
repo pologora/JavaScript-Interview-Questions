@@ -1,0 +1,20 @@
+What is Redux and what is it used for?
+What is the principle of unidirectional data flow in Redux?
+What are the three principles of Redux?
+What are the main components of Redux?
+What is a Redux store and how do you create one?
+What is a Redux action and how do you create one?
+What is a Redux reducer and how do you create one?
+What is a Redux middleware and how do you create one?
+What is a Redux enhancer and how do you create one?
+What is a Redux action creator and how do you create one?
+What is a Redux selectors and how do you create one?
+What is a Redux thunk and how do you create one?
+What is a Redux saga and how do you create one?
+What is a Redux observable and how do you create one?
+What is a Redux promise and how do you create one?
+What is a Redux memoization and how do you create one?
+What is a Redux persist and how do you create one?
+What is a Redux batch and how do you create one?
+What is a Redux defer and how do you create one?
+What is a Redux lock and how do you create one?

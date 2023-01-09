@@ -1,0 +1,20 @@
+What is asynchronicity in JavaScript and why is it important?
+What is the event loop in JavaScript and how does it work?
+What is a callback function in JavaScript and how do you use it?
+What is a promise in JavaScript and how do you use it?
+What is the async/await syntax in JavaScript and how do you use it?
+What is the difference between synchronous and asynchronous code in JavaScript?
+How do you handle errors in asynchronous code in JavaScript?
+How do you cancel a pending promise in JavaScript?
+What is a race condition in JavaScript and how do you avoid it?
+What is a deadlock in JavaScript and how do you avoid it?
+What is a race condition in JavaScript and how do you avoid it?
+What is a deadlock in JavaScript and how do you avoid it?
+What is a livelock in JavaScript and how do you avoid it?
+What is a starvation in JavaScript and how do you avoid it?
+What is a priority inversion in JavaScript and how do you avoid it?
+What is the difference between a parallel and a concurrent program in JavaScript?
+How do you implement a concurrent program in JavaScript?
+How do you coordinate threads in JavaScript?
+How do you synchronize access to shared resources in JavaScript?
+How do you implement a lock-free algorithm in JavaScript?

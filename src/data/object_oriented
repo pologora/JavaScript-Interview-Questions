@@ -1,0 +1,20 @@
+What is inheritance in JavaScript and how does it work?
+What is the prototype chain in JavaScript and how does it work?
+What is the difference between a prototype and a class in JavaScript?
+What is polymorphism in JavaScript and how do you implement it?
+What is encapsulation in JavaScript and how do you implement it?
+What is the difference between the class and module patterns in JavaScript?
+How do you create a subclass in JavaScript?
+How do you override a method in a subclass in JavaScript?
+How do you call the superclass method from a subclass in JavaScript?
+What is the difference between the public and private methods in a JavaScript class?
+How do you create a private field in a JavaScript class?
+How do you create a getter/setter in a JavaScript class?
+What is the difference between a shallow copy and a deep copy in JavaScript?
+How do you implement the iterator pattern in JavaScript?
+How do you implement the observer pattern in JavaScript?
+How do you implement the mediator pattern in JavaScript?
+How do you implement the command pattern in JavaScript?
+How do you implement the decorator pattern in JavaScript?
+How do you implement the factory pattern in JavaScript?
+How do you implement the singleton pattern in JavaScript?

@@ -1,0 +1,50 @@
+What is JavaScript and how does it work?
+What is the difference between a language and a library?
+What are the primitive data types in JavaScript?
+What is the difference between var, let, and const?
+How do you declare a variable in JavaScript?
+What is the difference between == and ===?
+How do you perform arithmetic operations in JavaScript?
+What are the assignment operators in JavaScript?
+What is the ternary operator and how is it used?
+What is hoisting and how does it work?
+What is the difference between function-level and block-level scope?
+What is closure and how is it used in JavaScript?
+What is the difference between an expression and a statement in JavaScript?
+What are the control structures in JavaScript and how are they used?
+What are loops and how are they used in JavaScript?
+What is a function and how is it defined in JavaScript?
+What is function scope and how does it work in JavaScript?
+What is a higher-order function and how is it used in JavaScript?
+What is a callback function and how is it used in JavaScript?
+What is an arrow function and how is it different from a regular function?
+What is the prototype chain in JavaScript and how does it work?
+What is an object in JavaScript and how is it used?
+What is object-oriented programming and how is it implemented in JavaScript?
+What are the differences between a class and an object in JavaScript?
+What are the differences between a static method and an instance method in JavaScript?
+What is the this keyword and how is it used in JavaScript?
+What is the difference between an object literal and a constructor function?
+What is the difference between the new operator and the Object.create() method?
+What is the Document Object Model (DOM) and how is it used in JavaScript?
+What is an event in JavaScript and how is it used?
+What is event bubbling and how is it used in JavaScript?
+What is the difference between event capturing and event bubbling?
+What is an event listener and how is it used in JavaScript?
+What is an asynchronous function and how is it used in JavaScript?
+What is the difference between synchronous and asynchronous code?
+What is a Promise in JavaScript and how is it used?
+What is the async/await syntax and how is it used in JavaScript?
+What is the difference between a Promise and an async function?
+What is a generator function and how is it used in JavaScript?
+What are the differences between a generator function and a regular function?
+What is a decorator and how is it used in JavaScript?
+What is the spread operator and how is it used in JavaScript?
+What is the rest operator and how is it used in JavaScript?
+What is destructuring and how is it used in JavaScript?
+What is a module in JavaScript and how is it used?
+What is the difference between a CommonJS module and an ES6 module?
+What is a transpiler and how is it used in JavaScript?
+What is a polyfill and how is it used in JavaScript?
+What is a proxy and how is it used in JavaScript?
+What is a symbol and how is it used in JavaScript?

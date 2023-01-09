@@ -1,0 +1,30 @@
+What is React and what is it used for?
+What is the virtual DOM in React and how does it work?
+What is a React component and how do you create one?
+What is the difference between a stateful and a stateless component in React?
+What is the difference between a function and a class component in React?
+What is the difference between a presentational and a container component in React?
+What is the syntax for importing and using a component in React?
+What is the syntax for using a component in JSX?
+What is the syntax for using a component's props in JSX?
+What is the syntax for using a component's state in JSX?
+What is the syntax for using a component's methods in JSX?
+What is the syntax for binding an event handler in JSX?
+What is the syntax for specifying inline styles in JSX?
+What is the syntax for specifying conditional rendering in JSX?
+What is the syntax for specifying lists in JSX?
+What is the syntax for specifying keys in JSX?
+What is the syntax for specifying refs in JSX?
+What is the syntax for specifying context in JSX?
+What is the syntax for specifying portals in JSX?
+What is the syntax for specifying fragments in JSX?
+What is the syntax for specifying errors in JSX?
+What is the syntax for specifying an attribute in JSX?
+What is the syntax for specifying a spread attribute in JSX?
+What is the syntax for specifying a prop in JSX?
+What is the syntax for specifying a default prop in JSX?
+What is the syntax for specifying a required prop in JSX?
+What is the syntax for specifying a type prop in JSX?
+What is the syntax for specifying a validation prop in JSX?
+What is the syntax for specifying a children prop in JSX?
+What is the syntax for specifying a dangerouslySetInnerHTML prop in JSX?
